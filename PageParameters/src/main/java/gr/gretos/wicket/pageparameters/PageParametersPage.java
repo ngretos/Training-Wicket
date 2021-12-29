@@ -43,8 +43,9 @@ public class PageParametersPage extends WebPage
                     }
                 };
 
-        Button button =
-                new Button("submit", new PropertyModel());
+        Button button = new Button("submit");
+
+        form.add(button);
 
         add(form);
     }
