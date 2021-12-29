@@ -30,3 +30,7 @@
 /.idea/.name
 /.idea/artifacts/PageParameters_war.xml
 /.idea/artifacts/PageParameters_war_exploded.xml
+/PropertyModel/target/
+/PropertyModel/PropertyModel.iml
+/.idea/artifacts/PropertyModel_war.xml
+/.idea/artifacts/PropertyModel_war_exploded.xml
