@@ -1,5 +1,6 @@
-package gr.gretos.wicket.pageparameters;
+package gr.gretos.wicket.simpleajax;
 
+import gr.gretos.wicket.simpleajax.SimpleAjaxPage;
 import junit.framework.TestCase;
 import org.apache.wicket.util.tester.WicketTester;
 

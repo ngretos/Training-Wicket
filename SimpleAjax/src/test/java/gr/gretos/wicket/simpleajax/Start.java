@@ -1,4 +1,4 @@
-package gr.gretos.wicket.pageparameters;
+package gr.gretos.wicket.simpleajax;
 
 import org.mortbay.jetty.Connector;
 import org.mortbay.jetty.Server;

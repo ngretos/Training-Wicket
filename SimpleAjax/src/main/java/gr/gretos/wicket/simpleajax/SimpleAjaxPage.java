@@ -1,4 +1,4 @@
-package gr.gretos.wicket.pageparameters;
+package gr.gretos.wicket.simpleajax;
 
 import org.apache.wicket.PageParameters;
 import org.apache.wicket.ajax.AjaxRequestTarget;
